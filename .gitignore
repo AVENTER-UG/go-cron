@@ -1,0 +1,11 @@
+run.sh
+init
+test
+stop.sh
+docs/book
+bootstrap/.owncloudsync.log
+bootstrap/*.db
+bootstrap/*.db-shm
+bootstrap/*.db-wal
+mesos-compose
+.dccache

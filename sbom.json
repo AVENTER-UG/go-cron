@@ -1,0 +1,1301 @@
+{
+ "artifacts": [
+  {
+   "id": "96b5fb68d7f6e746",
+   "name": "github.com/AVENTER-UG/go-logrus-formatter",
+   "version": "v0.5.4",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:AVENTER-UG:go-logrus-formatter:v0.5.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:AVENTER-UG:go_logrus_formatter:v0.5.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:AVENTER_UG:go-logrus-formatter:v0.5.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:AVENTER_UG:go_logrus_formatter:v0.5.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:AVENTER:go-logrus-formatter:v0.5.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:AVENTER:go_logrus_formatter:v0.5.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/AVENTER-UG/go-logrus-formatter@v0.5.4"
+  },
+  {
+   "id": "905110bcce22940",
+   "name": "github.com/AVENTER-UG/util",
+   "version": "v0.5.2",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:AVENTER-UG:util:v0.5.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:AVENTER_UG:util:v0.5.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:AVENTER:util:v0.5.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/AVENTER-UG/util@v0.5.2"
+  },
+  {
+   "id": "daf64942b82c66a8",
+   "name": "github.com/armon/go-metrics",
+   "version": "v0.3.9",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:armon:go-metrics:v0.3.9:*:*:*:*:*:*:*",
+    "cpe:2.3:a:armon:go_metrics:v0.3.9:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/armon/go-metrics@v0.3.9"
+  },
+  {
+   "id": "736d8ce1025c9093",
+   "name": "github.com/armon/go-radix",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:armon:go-radix:v1.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:armon:go_radix:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/armon/go-radix@v1.0.0"
+  },
+  {
+   "id": "fca273fd37fb3c76",
+   "name": "github.com/cenkalti/backoff/v3",
+   "version": "v3.0.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:cenkalti:backoff\\/v3:v3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/cenkalti/backoff/v3@v3.0.0"
+  },
+  {
+   "id": "7d153c8d676159ed",
+   "name": "github.com/fatih/color",
+   "version": "v1.7.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:fatih:color:v1.7.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/fatih/color@v1.7.0"
+  },
+  {
+   "id": "7ed432121cd20257",
+   "name": "github.com/golang/protobuf",
+   "version": "v1.5.2",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:protobuf:v1.5.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/golang/protobuf@v1.5.2"
+  },
+  {
+   "id": "60d3d8f83f919ba2",
+   "name": "github.com/golang/snappy",
+   "version": "v0.0.4",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:snappy:v0.0.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/golang/snappy@v0.0.4"
+  },
+  {
+   "id": "e5435757846d6596",
+   "name": "github.com/hashicorp/errwrap",
+   "version": "v1.1.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:errwrap:v1.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/errwrap@v1.1.0"
+  },
+  {
+   "id": "f0016b605105452",
+   "name": "github.com/hashicorp/go-cleanhttp",
+   "version": "v0.5.2",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-cleanhttp:v0.5.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_cleanhttp:v0.5.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-cleanhttp@v0.5.2"
+  },
+  {
+   "id": "51c188bde5d53ae3",
+   "name": "github.com/hashicorp/go-hclog",
+   "version": "v0.16.2",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-hclog:v0.16.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_hclog:v0.16.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-hclog@v0.16.2"
+  },
+  {
+   "id": "45a47eeb440bcf8d",
+   "name": "github.com/hashicorp/go-immutable-radix",
+   "version": "v1.3.1",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-immutable-radix:v1.3.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_immutable_radix:v1.3.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-immutable-radix@v1.3.1"
+  },
+  {
+   "id": "be73692cec4a065d",
+   "name": "github.com/hashicorp/go-multierror",
+   "version": "v1.1.1",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-multierror:v1.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_multierror:v1.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-multierror@v1.1.1"
+  },
+  {
+   "id": "90f1fdd2e1c1b518",
+   "name": "github.com/hashicorp/go-plugin",
+   "version": "v1.4.3",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-plugin:v1.4.3:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_plugin:v1.4.3:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-plugin@v1.4.3"
+  },
+  {
+   "id": "72e3c3b12f9dd9ce",
+   "name": "github.com/hashicorp/go-retryablehttp",
+   "version": "v0.6.6",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-retryablehttp:v0.6.6:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_retryablehttp:v0.6.6:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-retryablehttp@v0.6.6"
+  },
+  {
+   "id": "19095fb4ab5d65ad",
+   "name": "github.com/hashicorp/go-rootcerts",
+   "version": "v1.0.2",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-rootcerts:v1.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_rootcerts:v1.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-rootcerts@v1.0.2"
+  },
+  {
+   "id": "708199c603174195",
+   "name": "github.com/hashicorp/go-secure-stdlib/mlock",
+   "version": "v0.1.1",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-secure-stdlib\\/mlock:v0.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_secure_stdlib\\/mlock:v0.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-secure-stdlib/mlock@v0.1.1"
+  },
+  {
+   "id": "f4cdf4a96d2b8193",
+   "name": "github.com/hashicorp/go-secure-stdlib/parseutil",
+   "version": "v0.1.6",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-secure-stdlib\\/parseutil:v0.1.6:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_secure_stdlib\\/parseutil:v0.1.6:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-secure-stdlib/parseutil@v0.1.6"
+  },
+  {
+   "id": "1a69bf8b28ebb1c3",
+   "name": "github.com/hashicorp/go-secure-stdlib/strutil",
+   "version": "v0.1.2",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-secure-stdlib\\/strutil:v0.1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_secure_stdlib\\/strutil:v0.1.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-secure-stdlib/strutil@v0.1.2"
+  },
+  {
+   "id": "c8b7dc4c3e413e4d",
+   "name": "github.com/hashicorp/go-sockaddr",
+   "version": "v1.0.2",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-sockaddr:v1.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_sockaddr:v1.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-sockaddr@v1.0.2"
+  },
+  {
+   "id": "a11d09111bb3edbf",
+   "name": "github.com/hashicorp/go-uuid",
+   "version": "v1.0.2",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-uuid:v1.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_uuid:v1.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-uuid@v1.0.2"
+  },
+  {
+   "id": "b5b5c326cc45d476",
+   "name": "github.com/hashicorp/go-version",
+   "version": "v1.2.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-version:v1.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_version:v1.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-version@v1.2.0"
+  },
+  {
+   "id": "a6d490b6b6a74900",
+   "name": "github.com/hashicorp/golang-lru",
+   "version": "v0.5.4",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:golang-lru:v0.5.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:golang_lru:v0.5.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/golang-lru@v0.5.4"
+  },
+  {
+   "id": "b38cbaa8a90845be",
+   "name": "github.com/hashicorp/hcl",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:hcl:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/hcl@v1.0.0"
+  },
+  {
+   "id": "9aa4fa4a51f6f931",
+   "name": "github.com/hashicorp/vault/api",
+   "version": "v1.7.2",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:vault\\/api:v1.7.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/vault/api@v1.7.2"
+  },
+  {
+   "id": "d243be0a749d86e9",
+   "name": "github.com/hashicorp/vault/sdk",
+   "version": "v0.5.1",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:vault\\/sdk:v0.5.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/vault/sdk@v0.5.1"
+  },
+  {
+   "id": "2037a0bb63157685",
+   "name": "github.com/hashicorp/yamux",
+   "version": "v0.0.0-20180604194846-3520598351bb",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:yamux:v0.0.0-20180604194846-3520598351bb:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/yamux@v0.0.0-20180604194846-3520598351bb"
+  },
+  {
+   "id": "6c0c613f4a33780d",
+   "name": "github.com/mattn/go-colorable",
+   "version": "v0.1.6",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mattn:go-colorable:v0.1.6:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mattn:go_colorable:v0.1.6:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mattn/go-colorable@v0.1.6"
+  },
+  {
+   "id": "d551f1a52d820b0",
+   "name": "github.com/mattn/go-isatty",
+   "version": "v0.0.12",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mattn:go-isatty:v0.0.12:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mattn:go_isatty:v0.0.12:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mattn/go-isatty@v0.0.12"
+  },
+  {
+   "id": "aeae4fe373979249",
+   "name": "github.com/mgutz/ansi",
+   "version": "v0.0.0-20200706080929-d51e80ef957d",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mgutz:ansi:v0.0.0-20200706080929-d51e80ef957d:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mgutz/ansi@v0.0.0-20200706080929-d51e80ef957d"
+  },
+  {
+   "id": "2e2b7425def6d382",
+   "name": "github.com/mitchellh/copystructure",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mitchellh:copystructure:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mitchellh/copystructure@v1.0.0"
+  },
+  {
+   "id": "949c2ebf18451228",
+   "name": "github.com/mitchellh/go-homedir",
+   "version": "v1.1.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mitchellh:go-homedir:v1.1.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mitchellh:go_homedir:v1.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mitchellh/go-homedir@v1.1.0"
+  },
+  {
+   "id": "276ff66368ff582b",
+   "name": "github.com/mitchellh/go-testing-interface",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mitchellh:go-testing-interface:v1.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mitchellh:go_testing_interface:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mitchellh/go-testing-interface@v1.0.0"
+  },
+  {
+   "id": "fe7e275e3e288909",
+   "name": "github.com/mitchellh/mapstructure",
+   "version": "v1.5.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mitchellh:mapstructure:v1.5.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mitchellh/mapstructure@v1.5.0"
+  },
+  {
+   "id": "a113a66b91f9f433",
+   "name": "github.com/mitchellh/reflectwalk",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mitchellh:reflectwalk:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mitchellh/reflectwalk@v1.0.0"
+  },
+  {
+   "id": "7160fd89b7f8a8ee",
+   "name": "github.com/oklog/run",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:oklog:run:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/oklog/run@v1.0.0"
+  },
+  {
+   "id": "2e2ccb315dcbe270",
+   "name": "github.com/pierrec/lz4",
+   "version": "v2.5.2+incompatible",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:pierrec:lz4:v2.5.2\\+incompatible:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/pierrec/lz4@v2.5.2+incompatible"
+  },
+  {
+   "id": "886cdcc7750de4ce",
+   "name": "github.com/russross/blackfriday",
+   "version": "v1.6.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:russross:blackfriday:v1.6.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/russross/blackfriday@v1.6.0"
+  },
+  {
+   "id": "5b4a1f901e5e67e7",
+   "name": "github.com/ryanuber/go-glob",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:ryanuber:go-glob:v1.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:ryanuber:go_glob:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/ryanuber/go-glob@v1.0.0"
+  },
+  {
+   "id": "2eda87ac48b67502",
+   "name": "github.com/sirupsen/logrus",
+   "version": "v1.9.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:sirupsen:logrus:v1.9.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/sirupsen/logrus@v1.9.0"
+  },
+  {
+   "id": "b668c7ea5e05e70",
+   "name": "go.uber.org/atomic",
+   "version": "v1.9.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/go.uber.org/atomic@v1.9.0"
+  },
+  {
+   "id": "b8f3ad1272faad4e",
+   "name": "golang.org/x/crypto",
+   "version": "v0.0.0-20210711020723-a769d52b0f97",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/crypto:v0.0.0-20210711020723-a769d52b0f97:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/crypto@v0.0.0-20210711020723-a769d52b0f97"
+  },
+  {
+   "id": "901d232f16d52adf",
+   "name": "golang.org/x/net",
+   "version": "v0.0.0-20210226172049-e18ecbb05110",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/net:v0.0.0-20210226172049-e18ecbb05110:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/net@v0.0.0-20210226172049-e18ecbb05110"
+  },
+  {
+   "id": "77bad5d1d1ad2bd5",
+   "name": "golang.org/x/sys",
+   "version": "v0.0.0-20220715151400-c0bba94af5f8",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/sys:v0.0.0-20220715151400-c0bba94af5f8:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/sys@v0.0.0-20220715151400-c0bba94af5f8"
+  },
+  {
+   "id": "97ac603c81c53a6d",
+   "name": "golang.org/x/term",
+   "version": "v0.0.0-20201126162022-7de9c90e9dd1",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/term:v0.0.0-20201126162022-7de9c90e9dd1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/term@v0.0.0-20201126162022-7de9c90e9dd1"
+  },
+  {
+   "id": "495f2f4d8db51a25",
+   "name": "golang.org/x/text",
+   "version": "v0.3.3",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/text:v0.3.3:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/text@v0.3.3"
+  },
+  {
+   "id": "dd059b753d6a5936",
+   "name": "golang.org/x/time",
+   "version": "v0.0.0-20200416051211-89c76fbcd5d1",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/time:v0.0.0-20200416051211-89c76fbcd5d1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/time@v0.0.0-20200416051211-89c76fbcd5d1"
+  },
+  {
+   "id": "e82fee3d8169a9e0",
+   "name": "google.golang.org/genproto",
+   "version": "v0.0.0-20200526211855-cb27e3aa2013",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:genproto:v0.0.0-20200526211855-cb27e3aa2013:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/google.golang.org/genproto@v0.0.0-20200526211855-cb27e3aa2013"
+  },
+  {
+   "id": "db09666bdffc2433",
+   "name": "google.golang.org/grpc",
+   "version": "v1.41.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:grpc:v1.41.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/google.golang.org/grpc@v1.41.0"
+  },
+  {
+   "id": "a32dfd662943ae20",
+   "name": "google.golang.org/protobuf",
+   "version": "v1.26.0",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:protobuf:v1.26.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/google.golang.org/protobuf@v1.26.0"
+  },
+  {
+   "id": "a80cbfa8be154889",
+   "name": "gopkg.in/square/go-jose.v2",
+   "version": "v2.5.1",
+   "type": "go-module",
+   "foundBy": "go-mod-file-cataloger",
+   "locations": [
+    {
+     "path": "go.mod"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/gopkg.in/square/go-jose.v2@v2.5.1"
+  }
+ ],
+ "artifactRelationships": [
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "19095fb4ab5d65ad",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "1a69bf8b28ebb1c3",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "2037a0bb63157685",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "276ff66368ff582b",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "2e2b7425def6d382",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "2e2ccb315dcbe270",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "2eda87ac48b67502",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "45a47eeb440bcf8d",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "495f2f4d8db51a25",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "51c188bde5d53ae3",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "5b4a1f901e5e67e7",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "60d3d8f83f919ba2",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "6c0c613f4a33780d",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "708199c603174195",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "7160fd89b7f8a8ee",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "72e3c3b12f9dd9ce",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "736d8ce1025c9093",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "77bad5d1d1ad2bd5",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "7d153c8d676159ed",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "7ed432121cd20257",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "886cdcc7750de4ce",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "901d232f16d52adf",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "905110bcce22940",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "90f1fdd2e1c1b518",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "949c2ebf18451228",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "96b5fb68d7f6e746",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "97ac603c81c53a6d",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "9aa4fa4a51f6f931",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "a113a66b91f9f433",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "a11d09111bb3edbf",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "a32dfd662943ae20",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "a6d490b6b6a74900",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "a80cbfa8be154889",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "aeae4fe373979249",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "b38cbaa8a90845be",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "b5b5c326cc45d476",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "b668c7ea5e05e70",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "b8f3ad1272faad4e",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "be73692cec4a065d",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "c8b7dc4c3e413e4d",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "d243be0a749d86e9",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "d551f1a52d820b0",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "daf64942b82c66a8",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "db09666bdffc2433",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "dd059b753d6a5936",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "e5435757846d6596",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "e82fee3d8169a9e0",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "f0016b605105452",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "f4cdf4a96d2b8193",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "fca273fd37fb3c76",
+   "type": "contains"
+  },
+  {
+   "parent": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+   "child": "fe7e275e3e288909",
+   "type": "contains"
+  }
+ ],
+ "source": {
+  "id": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8",
+  "type": "directory",
+  "target": "."
+ },
+ "distro": {},
+ "descriptor": {
+  "name": "syft",
+  "version": "[not provided]",
+  "configuration": {
+   "configPath": "",
+   "verbosity": 0,
+   "quiet": false,
+   "output": [
+    "json"
+   ],
+   "output-template-path": "",
+   "file": "",
+   "check-for-app-update": true,
+   "dev": {
+    "profile-cpu": false,
+    "profile-mem": false
+   },
+   "log": {
+    "structured": false,
+    "level": "warn",
+    "file-location": ""
+   },
+   "catalogers": null,
+   "package": {
+    "cataloger": {
+     "enabled": true,
+     "scope": "Squashed"
+    },
+    "search-unindexed-archives": false,
+    "search-indexed-archives": true
+   },
+   "file-metadata": {
+    "cataloger": {
+     "enabled": false,
+     "scope": "Squashed"
+    },
+    "digests": [
+     "sha256"
+    ]
+   },
+   "file-classification": {
+    "cataloger": {
+     "enabled": false,
+     "scope": "Squashed"
+    }
+   },
+   "file-contents": {
+    "cataloger": {
+     "enabled": false,
+     "scope": "Squashed"
+    },
+    "skip-files-above-size": 1048576,
+    "globs": []
+   },
+   "secrets": {
+    "cataloger": {
+     "enabled": false,
+     "scope": "AllLayers"
+    },
+    "additional-patterns": {},
+    "exclude-pattern-names": [],
+    "reveal-values": false,
+    "skip-files-above-size": 1048576
+   },
+   "registry": {
+    "insecure-skip-tls-verify": false,
+    "insecure-use-http": false,
+    "auth": []
+   },
+   "exclude": [],
+   "attest": {
+    "key": "",
+    "cert": "",
+    "noUpload": false,
+    "force": false,
+    "recursive": false,
+    "replace": false,
+    "fulcioUrl": "https://fulcio.sigstore.dev",
+    "fulcio_identity_token": "",
+    "insecure_skip_verify": false,
+    "rekorUrl": "https://rekor.sigstore.dev",
+    "oidcIssuer": "https://oauth2.sigstore.dev/auth",
+    "oidcClientId": "sigstore",
+    "OIDCRedirectURL": ""
+   },
+   "platform": ""
+  }
+ },
+ "schema": {
+  "version": "4.1.0",
+  "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-4.1.0.json"
+ }
+}
