@@ -7,5 +7,5 @@ bootstrap/.owncloudsync.log
 bootstrap/*.db
 bootstrap/*.db-shm
 bootstrap/*.db-wal
-mesos-compose
+go-cron
 .dccache
