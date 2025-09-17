@@ -1,33 +1,46 @@
-NAME                                             VERSION                             TYPE      
-github.com/AVENTER-UG/go-logrus-formatter        v0.5.4                              go-module  
-github.com/AVENTER-UG/util                       v0.5.5                              go-module  
-github.com/cenkalti/backoff/v3                   v3.2.2                              go-module  
-github.com/fatih/color                           v1.15.0                             go-module  
-github.com/go-jose/go-jose/v3                    v3.0.1                              go-module  
-github.com/hashicorp/errwrap                     v1.1.0                              go-module  
-github.com/hashicorp/go-cleanhttp                v0.5.2                              go-module  
-github.com/hashicorp/go-hclog                    v1.5.0                              go-module  
-github.com/hashicorp/go-multierror               v1.1.1                              go-module  
-github.com/hashicorp/go-retryablehttp            v0.7.5                              go-module  
-github.com/hashicorp/go-rootcerts                v1.0.2                              go-module  
-github.com/hashicorp/go-secure-stdlib/parseutil  v0.1.8                              go-module  
-github.com/hashicorp/go-secure-stdlib/strutil    v0.1.2                              go-module  
-github.com/hashicorp/go-sockaddr                 v1.0.6                              go-module  
-github.com/hashicorp/hcl                         v1.0.0                              go-module  
-github.com/hashicorp/vault/api                   v1.10.0                             go-module  
-github.com/mattn/go-colorable                    v0.1.13                             go-module  
-github.com/mattn/go-isatty                       v0.0.20                             go-module  
-github.com/mgutz/ansi                            v0.0.0-20200706080929-d51e80ef957d  go-module  
-github.com/mitchellh/go-homedir                  v1.1.0                              go-module  
-github.com/mitchellh/mapstructure                v1.5.0                              go-module  
-github.com/russross/blackfriday                  v1.6.0                              go-module  
-github.com/ryanuber/go-glob                      v1.0.0                              go-module  
-github.com/sirupsen/logrus                       v1.9.3                              go-module  
-go-cron                                          v2024-01-21T00                      go-module  
-golang.org/x/crypto                              v0.18.0                             go-module  
-golang.org/x/net                                 v0.20.0                             go-module  
-golang.org/x/sys                                 v0.16.0                             go-module  
-golang.org/x/term                                v0.16.0                             go-module  
-golang.org/x/text                                v0.14.0                             go-module  
-golang.org/x/time                                v0.5.0                              go-module  
+NAME                                             VERSION                             TYPE                      
+github.com/AVENTER-UG/go-logrus-formatter        v0.5.4                              go-module  (+1 duplicate)  
+github.com/AVENTER-UG/util                       v0.5.19                             go-module                  
+github.com/AVENTER-UG/util                       v0.5.5                              go-module                  
+github.com/cenkalti/backoff/v3                   v3.2.2                              go-module                  
+github.com/cenkalti/backoff/v4                   v4.3.0                              go-module                  
+github.com/go-jose/go-jose/v3                    v3.0.1                              go-module                  
+github.com/go-jose/go-jose/v4                    v4.1.2                              go-module                  
+github.com/hashicorp/errwrap                     v1.1.0                              go-module  (+1 duplicate)  
+github.com/hashicorp/go-cleanhttp                v0.5.2                              go-module  (+1 duplicate)  
+github.com/hashicorp/go-multierror               v1.1.1                              go-module  (+1 duplicate)  
+github.com/hashicorp/go-retryablehttp            v0.7.5                              go-module                  
+github.com/hashicorp/go-retryablehttp            v0.7.8                              go-module                  
+github.com/hashicorp/go-rootcerts                v1.0.2                              go-module  (+1 duplicate)  
+github.com/hashicorp/go-secure-stdlib/parseutil  v0.1.8                              go-module                  
+github.com/hashicorp/go-secure-stdlib/parseutil  v0.2.0                              go-module                  
+github.com/hashicorp/go-secure-stdlib/strutil    v0.1.2                              go-module  (+1 duplicate)  
+github.com/hashicorp/go-sockaddr                 v1.0.6                              go-module                  
+github.com/hashicorp/go-sockaddr                 v1.0.7                              go-module                  
+github.com/hashicorp/hcl                         v1.0.0                              go-module                  
+github.com/hashicorp/hcl                         v1.0.1-vault-7                      go-module                  
+github.com/hashicorp/vault/api                   v1.10.0                             go-module                  
+github.com/hashicorp/vault/api                   v1.21.0                             go-module                  
+github.com/mattn/go-colorable                    v0.1.13                             go-module                  
+github.com/mattn/go-colorable                    v0.1.14                             go-module                  
+github.com/mattn/go-isatty                       v0.0.20                             go-module  (+1 duplicate)  
+github.com/mgutz/ansi                            v0.0.0-20200706080929-d51e80ef957d  go-module  (+1 duplicate)  
+github.com/mitchellh/go-homedir                  v1.1.0                              go-module                  
+github.com/mitchellh/mapstructure                v1.5.0                              go-module  (+1 duplicate)  
+github.com/russross/blackfriday                  v1.6.0                              go-module  (+1 duplicate)  
+github.com/ryanuber/go-glob                      v1.0.0                              go-module  (+1 duplicate)  
+github.com/sirupsen/logrus                       v1.9.3                              go-module  (+1 duplicate)  
+go-cron                                          v2024-01-21T00                      go-module                  
+golang.org/x/crypto                              v0.18.0                             go-module                  
+golang.org/x/crypto                              v0.42.0                             go-module                  
+golang.org/x/net                                 v0.20.0                             go-module                  
+golang.org/x/net                                 v0.44.0                             go-module                  
+golang.org/x/sys                                 v0.16.0                             go-module                  
+golang.org/x/sys                                 v0.36.0                             go-module                  
+golang.org/x/term                                v0.16.0                             go-module                  
+golang.org/x/term                                v0.35.0                             go-module                  
+golang.org/x/text                                v0.14.0                             go-module                  
+golang.org/x/text                                v0.29.0                             go-module                  
+golang.org/x/time                                v0.13.0                             go-module                  
+golang.org/x/time                                v0.5.0                              go-module                  
 stdlib                                           go1.21.6                            go-module
